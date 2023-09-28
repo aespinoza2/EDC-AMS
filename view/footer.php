@@ -1,3 +1,3 @@
 <footer>
-    <h3>University of Arizona College of Engineering<h3>
+    <f1>University of Arizona College of Engineering<f1>
 </footer>
